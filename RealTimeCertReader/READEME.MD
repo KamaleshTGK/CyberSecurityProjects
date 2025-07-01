@@ -28,7 +28,7 @@ This project is a simple Java tool that connects to an HTTPS URL, retrieves its 
 ```bash
 javac RealTimeCertReader.java
 ```
-## 2️⃣ **Run the program:**
+2️⃣ **Run the program:**
 ```bash
 Copy code
 ```
