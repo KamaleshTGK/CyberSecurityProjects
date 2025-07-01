@@ -46,6 +46,8 @@ Valid to: Tue Aug 15 12:25:03 IST 2023
 ✅ Certificate is VALID.
 ```
 # **⚠️ Note**
--> Make sure you have an internet connection to test the tool.
+- Make sure you have an internet connection to test the tool.
+- This is a beginner-level demonstration for educational purposes and does not handle advanced trust validation.
 
-This is a beginner-level demonstration for educational purposes and does not handle advanced trust validation.
+## 📚 Author: **Kamalesh TGK** <br>
+Learning Java & Cybersecurity 💻🔐
