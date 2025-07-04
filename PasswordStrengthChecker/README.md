@@ -53,4 +53,4 @@ Password strength: Strong
 This project is open-source and free to use for learning and educational purposes.
 
 ## 👨‍💻 Author: Kamalesh TGK
-Learning Java & Cybersecurity in a cool way .
+🚀 Passionately learning Java & Cybersecurity 🛡️🔐
