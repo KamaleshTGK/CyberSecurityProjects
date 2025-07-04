@@ -44,7 +44,7 @@ java Cybersecurity.Hashing.PasswordHasher
 
 ## ⚠️ Notes
 - Always store passwords securely and avoid sharing plain text passwords.
-- You can open ```bash passwords.txt``` anytime to review saved data.
+- You can open ```passwords.txt``` anytime to review saved data.
 
 ## 🛡️ Disclaimer
 This tool is for **learning and demonstration purposes only**.
